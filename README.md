@@ -10,4 +10,4 @@ Mimar Aslan abi Udemy Spring Security kursu. Herkese tavsiye ederim.
 
 Kursun linki: https://www.udemy.com/course/spring-boot-security/
 
-### Eclipse ile projeyi içe aktarmanın yolu: File > Import > Maven > Existing Maven Project Browse > İlgili klasörün seçimi > Tamam!
+### Eclipse ile projeyi içe aktarmanın yolu: File > Import > Maven > Existing Maven Project Browse > Select directory.
